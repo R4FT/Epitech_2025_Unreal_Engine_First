@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/arthu/Epitech_2025_Unreal_Engine_First/Cookie_Clickernt/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/arthu/Epitech_2025_Unreal_Engine_First/Cookie_Clickernt/Content/Player/Input/My_Move.uasset",
+				"C:/Users/arthu/Epitech_2025_Unreal_Engine_First/Cookie_Clickernt/Content/Player/Input/My_Look.uasset",
+				"C:/Users/arthu/Epitech_2025_Unreal_Engine_First/Cookie_Clickernt/Content/Player/Input/My_Mapping.uasset",
+				"C:/Users/arthu/Epitech_2025_Unreal_Engine_First/Cookie_Clickernt/Content/Player/Blueprint/BP_Player.uasset",
+				"C:/Users/arthu/Epitech_2025_Unreal_Engine_First/Cookie_Clickernt/Content/Player/Input/My_Jump.uasset",
+				"C:/Users/arthu/Epitech_2025_Unreal_Engine_First/Cookie_Clickernt/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/arthu/Epitech_2025_Unreal_Engine_First/Cookie_Clickernt/Content/Asset/ABP_Bot.uasset",
+				"C:/Users/arthu/Epitech_2025_Unreal_Engine_First/Cookie_Clickernt/Content/Asset/Mesh/SKM_Bot.uasset",
+				"C:/Users/arthu/Epitech_2025_Unreal_Engine_First/Cookie_Clickernt/Content/Asset/Mesh/SK_Bot.uasset",
+				"C:/Users/arthu/Epitech_2025_Unreal_Engine_First/Cookie_Clickernt/Content/Asset/Materials/MI_BotFace.uasset",
+				"C:/Users/arthu/Epitech_2025_Unreal_Engine_First/Cookie_Clickernt/Content/Asset/Materials/M_BotBase.uasset",
+				"C:/Users/arthu/Epitech_2025_Unreal_Engine_First/Cookie_Clickernt/Content/Asset/Materials/M_BotFace.uasset"
+			]
+		}
+	]
+}
